@@ -1,5 +1,5 @@
 # prep-course-dn-first-day
-## Second
+## 2nd
 ### Third
 ###### Six headers
 
